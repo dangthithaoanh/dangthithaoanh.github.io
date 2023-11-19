@@ -17,15 +17,15 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Research Master in Linguistics and Communication Sciences
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
+  - name: Radboud University
     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include computational morphology, information-theoretic approach to linguistics, large language models.
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -50,7 +50,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
-distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops
-self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a currently a second-year Research Master student in Linguistics and Communication sciences. Previously, I did my Bachelor in English Linguistics and Literature at International University - Vietnam National University of Ho Chi Minh City. My research interests lie in the intersection between linguistics and deep learning.
 {style="text-align: justify; font-size: 0.8em;"}
