@@ -61,8 +61,9 @@ education:
       - Neurobiology of Language
   - area: BA English Linguistics and Literature
     institution: Vietnam National University of Ho Chi Minh City
-    date_start: 2017-09
-    date_end: 2022-09
+    date_start: 2017-09-01
+    date_end: 2022-09-01
+
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
