@@ -65,23 +65,23 @@ education:
     date_end: 2022-09-01
 
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Internship
+    company_name: Maxplanck Institute for Psycholinguistics
+    company_url: https://www.mpi.nl/
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2022-06-01
     date_end: ''
     summary: |2-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+  - position: Internship
+    company_name: Centre for Language Studies
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2022-03-01
+    date_end: ''
     summary: |
       Responsibilities include:
       - Migrated infrastructure to a new data center
