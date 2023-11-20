@@ -49,8 +49,8 @@ social:
 education:
   - area: REMA Linguistics and Communication Sciences
     institution: Radboud University
-    date_start: 2022-09
-    date_end: current
+    date_start: 2022-09-01
+    date_end: 2024-09-01
     summary: |
       GPA: 3.58/4.0
 
