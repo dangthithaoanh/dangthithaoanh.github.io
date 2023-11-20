@@ -6,9 +6,11 @@ sections:
   - block: about.avatar
     content:
       username: admin # The user's folder name in content/authors/
-  - block: collection
+  - block: experience
     content:
-      filters:
-        folders:
-          - post
+      username: admin
+    design:
+      # Hugo date format
+      date_format: 'January 2006'
+      is_education_first: false
 ---
