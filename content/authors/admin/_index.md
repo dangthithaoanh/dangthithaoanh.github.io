@@ -71,11 +71,7 @@ work:
     company_logo: ''
     date_start: 2022-06-01
     date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    summary: |
   - position: Internship
     company_name: Centre for Language Studies
     company_url: ''
@@ -83,10 +79,6 @@ work:
     date_start: 2022-03-01
     date_end: ''
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
