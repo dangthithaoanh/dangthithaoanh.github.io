@@ -11,5 +11,5 @@ main:
     url: uses/
     weight: 30
   - name: Blogs
-    url: tags/
+    url: post/
     weight: 20
