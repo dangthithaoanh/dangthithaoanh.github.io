@@ -9,6 +9,11 @@ sections:
   - block: experience
     content:
       username: admin
+  - block: collection
+    content:
+      filters:
+        folders:
+          - post
     design:
       # Hugo date format
       date_format: 'January 2006'
