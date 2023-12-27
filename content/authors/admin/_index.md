@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Research Master in Linguistics and Communication Sciences
+role: Research Master student in Linguistics and Communication Sciences
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -59,6 +59,7 @@ education:
       - Introduction to Language and Speech Technology
       - Computational Psycholinguistics
       - Neurobiology of Language
+      - Transformer-based Models
   - area: BA English Linguistics and Literature
     institution: Vietnam National University of Ho Chi Minh City
     date_start: 2017-09-01
