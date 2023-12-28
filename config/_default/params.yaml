@@ -5,7 +5,8 @@
 
 # Appearance
 appearance:
-  theme_default: system
+  theme_day: minimal
+  theme_night: minimal
   font: Roboto
 
 # SEO
