@@ -1,6 +1,6 @@
 ---
 # Display name
-title: <p class="font-mono ..."> Dang Thi Thao Anh </p>
+title: Dang Thi Thao Anh 
 
 # Name pronunciation (optional)
 name_pronunciation:
@@ -22,7 +22,7 @@ role: Research Master student in Linguistics and Communication Sciences
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Radboud University
-    url: https://www.stanford.edu/
+    url: https://www.ru.nl/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include computational morphology, information-theoretic approach to linguistics, large language models.
@@ -35,8 +35,6 @@ social:
   - icon: x
     link: https://twitter.com/GetResearchDev
     label: Follow me on X
-  - icon: instagram
-    link: https://www.instagram.com/
   - icon: linkedin
     link: https://www.linkedin.com/
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
