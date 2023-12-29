@@ -83,6 +83,8 @@ work:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+<p class="font-mono ...">
+  I am currently a second-year Research Master student in Linguistics and Communication sciences. Previously, I did my Bachelor in English Linguistics and Literature at International University - Vietnam National University of Ho Chi Minh City. My research interests lie in the intersection between linguistics and deep learning.
+</p>
 
-I am a currently a second-year Research Master student in Linguistics and Communication sciences. Previously, I did my Bachelor in English Linguistics and Literature at International University - Vietnam National University of Ho Chi Minh City. My research interests lie in the intersection between linguistics and deep learning.
 {style="text-align: justify; font-size: 0.8em;"}
