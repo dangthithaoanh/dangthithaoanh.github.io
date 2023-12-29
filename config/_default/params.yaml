@@ -7,7 +7,7 @@
 appearance:
   mode: light
   color: rose
-  font: Roboto
+  font: font-mono
 
 # SEO
 marketing:
