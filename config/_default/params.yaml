@@ -6,6 +6,7 @@
 # Appearance
 appearance:
   mode: light
+  color: rose
   font: Roboto
 
 # SEO
