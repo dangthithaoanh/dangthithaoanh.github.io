@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dang Thi Thao Anh
+title: <p class="font-mono ..."> Dang Thi Thao Anh </p>
 
 # Name pronunciation (optional)
 name_pronunciation:
